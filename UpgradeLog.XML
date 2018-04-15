@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CamDo">
+</Property><Property Name="Solution File" Value="D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\CamDo.sln">
+</Property><Property Name="User Options File" Value="D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\CamDo.suo">
+</Property><Property Name="Date" Value="Saturday, March 14, 2009">
+</Property><Property Name="Time" Value="18:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CamDo.sln" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CamDo.suo" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo.suo">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\CamDo.csproj" Description="Project file successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\CamDo.csproj">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\CamDo.csproj.user" Description="Project user file successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\CamDo.csproj.user">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableInterest.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableInterest.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableInterest.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableInterest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\PrintDirect1.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\PrintDirect1.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\DataProvider\Copy (2) of sqlProvider.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\DataProvider\Copy (2) of sqlProvider.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\DataProvider\Copy of sqlProvider.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\DataProvider\Copy of sqlProvider.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\DataProvider\ProductTypeInfor.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\DataProvider\ProductTypeInfor.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\DataProvider\ProductInfor.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\DataProvider\ProductInfor.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\DataProvider\sqlProvider.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\DataProvider\sqlProvider.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Filter.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Filter.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Filter.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Filter.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\InputPassword.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\InputPassword.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\InputPassword.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\InputPassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\OveridePrinter.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\OveridePrinter.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\PrintDirect.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\PrintDirect.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Product.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Product.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Product.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Product.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Program.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Program.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\RawPrinterHelper.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\RawPrinterHelper.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\RawPrinterHelper1.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\RawPrinterHelper1.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\SetSystemFont.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\SetSystemFont.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableCost.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableCost.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableCost.Designer.cs" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableCost.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\app.config" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\app.config">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Properties\Settings.settings" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableInterest.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableInterest.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Filter.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Filter.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\InputPassword.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\InputPassword.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Product.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Product.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\Properties\Resources.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\TableCost.resx" Description="File successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\CamDo\TableCost.resx">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\CamDo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CamDo" Source="CamDo\CamDo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupCamdo.vdproj" Source="SetupCamDo\SetupCamdo.vdproj" Description="Project file successfully backed up as D:\VNThanh\Applications\DotNet\WindowApplications\2Workings\CamDo\Backup\SetupCamDo\SetupCamdo.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="CamDo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CamDo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CamDo" Source="CamDo\CamDo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
